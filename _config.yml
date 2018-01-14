@@ -1,11 +1,11 @@
 # Site settings
-title: Volkan Tokmak #website title
+title: My Notes | Notlarım #website title
 description: > # this means to ignore newlines until "baseurl:"
   Volkan Tokmak
 url: https://volkanto.github.io # the base hostname & protocol for your site
 baseurl: # the sub-path of your site, e.g. /blog/
 
-disqus_shortname: #kuoa # leave empty if you don't want comments
+disqus_shortname: volkanto # leave empty if you don't want comments
 google_analytics: false #if set to "true" modify the google_analytycs.html, set to false otherwise
 
 # Links settings
