@@ -8,11 +8,16 @@ category: misc
 finished: false
 ---
 
-Yakın zamanda Aslı Erdoğan'ın "Kırmızı Pelerinli Kent" adlı kitabını okumaya başladım. 
+Yakın zamanda [Aslı Erdoğan](http://aslierdogan.com/)'ın [__"Kırmızı Pelerinli Kent"__](https://www.goodreads.com/book/show/6595255-k-rm-z-pelerinli-kent) adlı kitabını okumaya başladım. 
+
 
 Bu yazıda, kitap içerisinde önemli bulduğum ya da hoşuma giden kısımları not almaya çalışacağım. 
 
 ![Kırmızı Pelerinli Kent]({{ site.url }}/assets/kirmizi-pelerinli-kent.jpg "Kırmızı Pelerinli Kent")
+
+
+Sayfa 12:
+> __Rio de Janeiro__ isminin Portekizcede __Ocak Irmağı__ anlamına geldiğini belirtiyor.
 
 Sayfa 31:
 > İnsan, gerçekte gereksinim duymadığını tüketmeye bir türlü doyamıyordu.
