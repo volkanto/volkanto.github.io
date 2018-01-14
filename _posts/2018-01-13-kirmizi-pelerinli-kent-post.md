@@ -15,7 +15,7 @@ Yakın zamanda [Aslı Erdoğan](http://aslierdogan.com/)'ın [__"Kırmızı Pele
 Bu yazıda, kitap içerisinde önemli bulduğum ya da hoşuma giden kısımları not almaya çalışacağım. 
 
 <p align="center">
-  ![Kırmızı Pelerinli Kent]({{ site.url }}/assets/kirmizi-pelerinli-kent.jpg "Kırmızı Pelerinli Kent")
+  <img src="{{ site.url }}/assets/kirmizi-pelerinli-kent.jpg" />
 </p>
 
 Sayfa 12:
