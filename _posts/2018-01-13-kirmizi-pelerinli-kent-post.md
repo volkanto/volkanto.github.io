@@ -5,6 +5,7 @@ description: "Kırmızı Pelerinli Kent kitabından alıntılar."
 author: volkanto
 tags: books
 category: misc
+comments: true
 finished: false
 ---
 
