@@ -30,3 +30,5 @@ Start Redis instance with persistant storage:
 If you want to change the port, use this command with above commands:
 
 > -p {public-port}:6379
+
+[Here]({{ site.url }}/assets/files/redis.conf) you can find sample redis configuration file.
