@@ -6,6 +6,4 @@ category: misc
 tags: video 140journos
 ---
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WNWQO70amq4
-" target="_blank"><img src="http://img.youtube.com/vi/WNWQO70amq4/0.jpg" 
-alt="Seküler Göç - Bölüm 1: Nedenler" width="240" height="180" border="10" /></a>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/WNWQO70amq4" frameborder="0" allowfullscreen></iframe></center>
