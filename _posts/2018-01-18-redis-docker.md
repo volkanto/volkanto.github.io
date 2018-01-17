@@ -2,8 +2,8 @@
 layout: post
 title: "Redis setup on Docker"
 description: "How to install Redis on Docker"
-category: cache software
-tags: redis docker cache
+category: cache
+tags: redis docker cache code
 ---
 
 ### Redis setup on Docker
