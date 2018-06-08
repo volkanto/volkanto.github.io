@@ -6,7 +6,7 @@ category: misc music
 tags: video music
 ---
 
-<center><iframe width="560" height="315" src="https://youtu.be/IOd4Bhd-bWA" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/IOd4Bhd-bWA" frameborder="0" allowfullscreen></iframe></center>
 
 Hey bir zaman bakıp bakıp <br/>
 Seyrine doyamadığım! <br/>
