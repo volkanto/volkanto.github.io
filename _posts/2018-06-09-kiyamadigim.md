@@ -8,27 +8,29 @@ tags: video music
 
 <center><iframe width="560" height="315" src="https://youtu.be/IOd4Bhd-bWA" frameborder="0" allowfullscreen></iframe></center>
 
-Hey bir zaman bakıp bakıp
-Seyrine doyamadığım!
-Şimdi gurbette bırakıp
-Sesini duyamadığım!
+Hey bir zaman bakıp bakıp <br/>
+Seyrine doyamadığım! <br/>
+Şimdi gurbette bırakıp <br/>
+Sesini duyamadığım! <br/> <br/>
 
-Evde kapanıp kaldın mı?
-Seyrana çıkıp güldün mü?
-Başkalarının oldun mu?
-"Benimsin!" diyemediğim!
+Evde kapanıp kaldın mı? <br/>
+Seyrana çıkıp güldün mü? <br/>
+Başkalarının oldun mu? <br/>
+"Benimsin!" diyemediğim! <br/> <br/>
 
-Akıtıp gözüm yaşını
-Hatırlarım gülüşünü;
-Kıvırcık saçlı başını
-Göğsüme koyamadiğım!
+Akıtıp gözüm yaşını <br/>
+Hatırlarım gülüşünü; <br/>
+Kıvırcık saçlı başını <br/>
+Göğsüme koyamadiğım! <br/> <br/>
 
-Dik yamaçların selisin,
-Sen benden daha delisin,
-Şimdi kimlerin kulusun?
-Başını eğemediğim!
+Dik yamaçların selisin, <br/>
+Sen benden daha delisin, <br/>
+Şimdi kimlerin kulusun? <br/>
+Başını eğemediğim! <br/> <br/>
 
-Nasıl vurgunum bilirdin,
-Niçin benden yüz çevirdin?
-Kimlerin koynuna girdin?
-Öpmeğe kıyamadığım!
+Nasıl vurgunum bilirdin, <br/>
+Niçin benden yüz çevirdin? <br/>
+Kimlerin koynuna girdin? <br/>
+Öpmeğe kıyamadığım! <br/>
+
+- Sabahattin Ali
