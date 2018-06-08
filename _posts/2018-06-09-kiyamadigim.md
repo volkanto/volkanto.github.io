@@ -33,4 +33,4 @@ Niçin benden yüz çevirdin? <br/>
 Kimlerin koynuna girdin? <br/>
 Öpmeğe kıyamadığım! <br/>
 
-- Sabahattin Ali
+-Sabahattin Ali
