@@ -21,7 +21,7 @@ Başkalarının oldun mu? <br/>
 Akıtıp gözüm yaşını <br/>
 Hatırlarım gülüşünü; <br/>
 Kıvırcık saçlı başını <br/>
-Göğsüme koyamadiğım! <br/> <br/>
+Göğsüme koyamadığım! <br/> <br/>
 
 Dik yamaçların selisin, <br/>
 Sen benden daha delisin, <br/>
