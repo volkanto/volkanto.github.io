@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Stop Re-Typing Dashboard Links: Meet launchr"
+title: "Stop Re-Typing Dashboard Links: Meet `launchr`"
 description: "launchr helps teams open dashboards, logs, and runbook links from reusable command templates. Keep links typed, validated, and fast to execute."
 category: dev-tools
 tags: cli tips productivity
 ---
-
-# Stop Re-Typing Dashboard Links: Meet launchr
 
 Most teams still open dashboards the hard way: copy a link, tweak query params, repeat.
 
