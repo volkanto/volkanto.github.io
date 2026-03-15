@@ -6,8 +6,6 @@ category: dev-tools
 tags: cli tips productivity
 ---
 
-# Stop Hand-Building GitHub Releases: Meet Yaba
-
 Most teams still run release day with manual glue: compare tags, paste changelogs, choose a tag format, create the release, then post to Slack.
 
 `yaba-release-cli` turns that into a repeatable CLI workflow with explicit commands, config-driven defaults, and machine-readable output for CI.
